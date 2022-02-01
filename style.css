@@ -1,0 +1,43 @@
+h1 {
+    color: rgb(0, 0, 0);
+   
+    background-color: rgb(216, 220, 217);
+}
+
+body {
+    background-color: rgb(177, 174, 75);
+}
+
+img {
+    border: 5px solid rgb(184, 175, 175);
+    border-radius: 40px;
+}
+body{
+background-color: rgb(216, 220, 217);
+}
+p {
+   
+    font-family: comic sans ms;
+    font-weight: italic;
+    font-size: 10;
+}
+.header{
+    background-color: rgb(216, 220, 217);
+    display: flex;
+    justify-content: space-between;
+}
+.grid{
+    padding: 30px;
+display: flex;
+justify-content: space-between;
+
+}
+.item{
+    height:380px;
+    border-radius: px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    text-align: center;
+}
